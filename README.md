@@ -1,2 +1,4 @@
 # simple-tools
-This repository has simple everyday tools 
+This repository has simple everyday tools
+Name of the files and what they do: 
+1) filename simply provides you with all the filenames in a folder 
