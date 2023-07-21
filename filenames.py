@@ -7,6 +7,9 @@ def get_file_names(folder_path):
             file_names.append(file)
     return file_names
 
+## This function takes a folder_path as input and returns a list of file names present in that folder. 
+## The function initializes an empty list of file_names to store the file names.
+
 if __name__ == "__main__":
     folder_path = input("Enter the path of the folder: ")
     if os.path.exists(folder_path):
